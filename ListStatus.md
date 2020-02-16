@@ -1,0 +1,20 @@
+## List Status Code
+```php
+420 => 'code 420 Tangal Mulai tidak boleh kosong.',
+421 => 'code 421 Format dari Tangal Mulai tidak valid.',
+422 => 'code 422 Tangal Mulai harus lebih besar dari ',
+423 => 'code 423 Penjemputan tidak boleh kosong.',
+424 => 'code 424 Penjemputan setidaknya harus memiliki lebih dari 3 digit karakter.',
+425 => 'code 425 Tidak ada pool yang active.',
+426 => 'code 426 Driver kami tidak mampu melakukan penjemputan ke',
+427 => 'code 427 Penjemputan ke {address} minimum {durasi} jam.',
+428 => 'code 428 Tujuan tidak boleh kosong.',
+429 => 'code 429 Penjemputan setidaknya harus memiliki lebih dari 3 digit karakter.',
+430 => 'code 430 Setidaknya harus ada satu tujuan untuk paket sewa ini.',
+431 => 'code 431 Tujuan setidaknya harus memiliki lebih dari 3 digit karakter.',
+432 => 'code 432 Tangal Selesai tidak boleh kosong.',
+433 => 'code 433 Format dari Tangal Selesai tidak valid.',
+434 => 'code 434 Tangal Selesai harus lebih besar dari tanggal mulai.',
+435 => 'code 435 Lokasi Turun tidak boleh dikosongkan.',
+436 => 'code 436 Lokasi Turun setidaknya harus memiliki lebih dari 3 digit karakter.',
+```
