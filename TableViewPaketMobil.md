@@ -26,7 +26,11 @@ pb.status,
 il.iditem_layanan,
 il.nama,
 il.keterangan AS il_keterangan,
-il.alias
+il.alias,
+tmkh.idtipe_mobil_kisaran_harga,
+tmkh.nama_kisaran_harga,
+tmkh.harga_min,
+tmkh.harga_max
 FROM paket_mobil AS pm
 LEFT JOIN radius AS r ON r.idradius = pm.radius_idradius
 LEFT JOIN paket_biaya AS pb ON pb.idpaket_biaya = pm.paket_biaya_idpaket_biaya
