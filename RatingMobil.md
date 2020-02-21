@@ -8,7 +8,6 @@
 ``
 * Sopir ramah, sopir rapi, mobil bersih, tau jalan
 ``
-* Sopir ramah, sopir rapi, mobil bersih, tau jalan
 ### Bintang 3
 ``
 * Sopir ramah, sopir rapi, mobil bersih, tau jalan
