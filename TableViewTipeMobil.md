@@ -24,7 +24,7 @@ km.*,
 kh.*,
 ibb.iditem_bahan_bakar,
 ibb.nama_bahan_bakar,
-ibb.harga,
+ibb.harga AS ibb_harga,
 ibb.item_satuan_iditem_satuan AS ibb_iditem_satuan
 FROM tipe_mobil AS tm
 LEFT JOIN kategori_mobil AS km ON km.idkategori_mobil = tm.kategori_mobil_idkategori_mobil
