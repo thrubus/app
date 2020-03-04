@@ -7,7 +7,7 @@
 423 => 'code 423 Penjemputan tidak boleh kosong.',
 424 => 'code 424 Penjemputan setidaknya harus memiliki lebih dari 3 digit karakter.',
 425 => 'code 425 Tidak ada pool yang active.',
-426 => 'code 426 Driver kami tidak mampu melakukan penjemputan ke',
+426 => 'code 426 Driver kami tidak mampu melakukan penjemputan ke ',
 427 => 'code 427 Penjemputan ke {address} minimum {durasi} jam.',
 428 => 'code 428 Tujuan tidak boleh kosong.',
 429 => 'code 429 Penjemputan setidaknya harus memiliki lebih dari 3 digit karakter.',
